@@ -21,6 +21,9 @@ services:
     name: symbiosis-redis
     region: oregon
     plan: free
+    ipAllowList:
+      - source: 0.0.0.0/0
+        description: Allow all traffic
 
 databases:
   - name: symbiosis-postgres
