@@ -1,0 +1,4 @@
+📁 app/                     <-- Contains main.py, routers, schemas
+📄 Dockerfile               <-- In root
+📄 render.yaml             <-- In root
+📄 requirements.txt         <-- In root
