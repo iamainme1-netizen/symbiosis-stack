@@ -1,9 +1,0 @@
-symbiosis-stack/
-├── app/                  <-- Folder containing Python/FastAPI source code
-├── tests/                <-- Folder containing Pytest unit & integration tests
-├── Dockerfile            <-- Container build instructions
-├── docker-compose.yml    <-- Local container configuration
-├── render.yaml           <-- Render Blueprint configuration (Updated below)
-├── requirements.txt      <-- Python dependencies
-└── README.md             <-- Architecture & setup overview
-
