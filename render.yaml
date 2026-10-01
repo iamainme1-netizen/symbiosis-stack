@@ -31,3 +31,4 @@ databases:
     user: symbiosis_user
     region: oregon
     plan: free
+
